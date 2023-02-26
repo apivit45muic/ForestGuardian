@@ -17,4 +17,5 @@ Antiquity fonts : [ninjikin](https://ninjikin.itch.io/font-antiquity-script?down
 Dungeon fonts : [vrtxrry](https://vrtxrry.itch.io/dungeonfont)\
 Fio death sound : Metal Slug\
 Skeleton death sound : Minecraft\
-Boss Attack sound : Gut, Berserk\
+Gut clang sound : Berserk\
+Gameover sound : Ninja Gaiden

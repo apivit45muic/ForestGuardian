@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 90c7e07f7beabda47be80c93cb87e0ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c33a7cc5cc0e14398b8299d049a589
+      internalID: -919233166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_1
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 6400
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953adcf16f12d0b45954b20d53c5f282
+      internalID: 1576350575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_2
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6400
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ad340b5384794b8f6f7d323ee8b15
+      internalID: -1558176978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_3
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 6400
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677ca872442f5b4e93641715fec5f2f
+      internalID: -1856122960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_4
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 6400
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab51775ef459a8a4a830d84a04239981
+      internalID: -1075697609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50292114f348009438922f2a2a5cbdc3
+      internalID: -1964272125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4800
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb39d466836aa4240bbb4591b0bea1ef
+      internalID: 1389950607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_7
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4800
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc163adb00eb14988c84712132ff00
+      internalID: 413567300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 4800
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b1602cb7c36c341a368f9f094d53ab
+      internalID: -324021952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_9
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 4800
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837031a0f7973545baf20b708742e84
+      internalID: -1023882298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c61d1a87b6cd744ac67f8f2d23ec73
+      internalID: -628949504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3200
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c792facb9ea0e084bb8639168507680d
+      internalID: -472511030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_12
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3200
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673da41d6d9a442488d996f921463167
+      internalID: 1767624082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_13
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 3200
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e35ffa2bd4c543821f5a50f079f75
+      internalID: 260097684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_14
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3200
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5aded081c53d249ab3f71b56a1f31e
+      internalID: -901178867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9725422453f0a2947836b9f9b47cbdae
+      internalID: -716160992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_16
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1600
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4d5df28c3e684e950f2e30a0c0822
+      internalID: -930281698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_17
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1600
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1615386be5e54088b1b423e8b9f4f
+      internalID: -275729896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_18
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1600
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195c6f2fe1280b4a9e77fb29b591532
+      internalID: 522305730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_19
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1600
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e97583fb359fae4da6f942419866a14
+      internalID: -662657298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fa5467de2d8e34a81957c14028c0d1
+      internalID: 11152538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_21
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83289248be6eede4ca3796f292a7012a
+      internalID: 1206836694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48566566887e6f43afd87e564b9049c
+      internalID: 172573745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_23
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c48cf75882c5458acd2b831d1f874
+      internalID: 446693732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_demon_slime-Sheet-die_24
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 2880
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2215a375a013478ceb1b82832061f
+      internalID: -1037795087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Purple_demon_slime-Sheet-die_17: -275729896
+      Purple_demon_slime-Sheet-die_12: 1767624082
+      Purple_demon_slime-Sheet-die_11: -472511030
+      Purple_demon_slime-Sheet-die_10: -628949504
+      Purple_demon_slime-Sheet-die_0: -919233166
+      Purple_demon_slime-Sheet-die_13: 260097684
+      Purple_demon_slime-Sheet-die_5: -1964272125
+      Purple_demon_slime-Sheet-die_15: -716160992
+      Purple_demon_slime-Sheet-die_8: -324021952
+      Purple_demon_slime-Sheet-die_24: -1037795087
+      Purple_demon_slime-Sheet-die_4: -1075697609
+      Purple_demon_slime-Sheet-die_21: 1206836694
+      Purple_demon_slime-Sheet-die_19: -662657298
+      Purple_demon_slime-Sheet-die_9: -1023882298
+      Purple_demon_slime-Sheet-die_18: 522305730
+      Purple_demon_slime-Sheet-die_7: 413567300
+      Purple_demon_slime-Sheet-die_22: 172573745
+      Purple_demon_slime-Sheet-die_6: 1389950607
+      Purple_demon_slime-Sheet-die_3: -1856122960
+      Purple_demon_slime-Sheet-die_14: -901178867
+      Purple_demon_slime-Sheet-die_23: 446693732
+      Purple_demon_slime-Sheet-die_16: -930281698
+      Purple_demon_slime-Sheet-die_20: 11152538
+      Purple_demon_slime-Sheet-die_2: -1558176978
+      Purple_demon_slime-Sheet-die_1: 1576350575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
